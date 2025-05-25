@@ -1,5 +1,5 @@
 <template>
-	<Counter/>
-	<Counter/>
-	<Counter/>
+	<Counter title="A"/>
+	<Counter title="B"/>
+	<Counter title="C"/>
 </template>
